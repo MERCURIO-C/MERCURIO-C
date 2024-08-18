@@ -4,7 +4,9 @@
     <br>
 </samp>
 
-<img align="center" width="50%" src="https://media1.tenor.com/m/UQU14FLCsaEAAAAC/pixel-pixel-art.gif">
+<p align="center">
+    <img width="50%" src="https://media1.tenor.com/m/UQU14FLCsaEAAAAC/pixel-pixel-art.gif" alt="Pixel Art GIF">
+</p>
 
 
 
