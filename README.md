@@ -4,6 +4,6 @@
       <br>
 </samp>
 
-![Pixel Art Rainy Day GIF](https://media.tenor.com/images/f1d82e5bb4e6c42482b4c6226d595db7/tenor.gif)
+<img align="center" width="100%" src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif">
 
 
