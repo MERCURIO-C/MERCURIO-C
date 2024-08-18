@@ -4,6 +4,6 @@
       <br>
 </samp>
 
-<img align="center" width="100%" src="https://media.tenor.com/images/f1d82e5bb4e6c42482b4c6226d595db7/tenor.gif">
+<img align="center" width="100%" src="https://media1.tenor.com/m/UQU14FLCsaEAAAAC/pixel-pixel-art.gif">
 
 
